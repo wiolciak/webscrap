@@ -1,0 +1,1232 @@
+[
+    {
+        "title": "Kraków Tonie",
+        "street": "ul. Na Mostkach",
+        "pow": "76",
+        "room": "3",
+        "price": "950 000",
+        "price_m2": "12 583",
+        "link": "https://adresowo.pl/o/k0a3g9",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Dębniki",
+        "street": "ul. Lubostroń",
+        "pow": "68",
+        "room": "3",
+        "price": "1 200 000",
+        "price_m2": "17 647",
+        "link": "https://adresowo.pl/o/o1k1u6",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Dębniki",
+        "street": "ul. Powstańców",
+        "pow": "45",
+        "room": "3",
+        "price": "600 000",
+        "price_m2": "13 333",
+        "link": "https://adresowo.pl/o/i1i4e8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Grzegórzki",
+        "street": "ul. płk. pil. Stefana Łaszkiewicza",
+        "pow": "62",
+        "room": "3",
+        "price": "1 250 000",
+        "price_m2": "20 161",
+        "link": "https://adresowo.pl/o/h5x5n4",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Prądnik Biały",
+        "street": "ul. Marii Jaremy",
+        "pow": "51",
+        "room": "3",
+        "price": "595 000",
+        "price_m2": "11 667",
+        "link": "https://adresowo.pl/o/e3w7n2",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Nowa Huta",
+        "street": "os. Kazimierzowskie",
+        "pow": "37",
+        "room": "2",
+        "price": "499 000",
+        "price_m2": "13 486",
+        "link": "https://adresowo.pl/o/o2v7j1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Grzegórzki",
+        "street": "al. Ignacego Daszyńskiego",
+        "pow": "34",
+        "room": "1",
+        "price": "663 000",
+        "price_m2": "19 500",
+        "link": "https://adresowo.pl/o/b8z7l9",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Podgórze",
+        "street": "ul. Kalwaryjska",
+        "pow": "73",
+        "room": "3",
+        "price": "795 000",
+        "price_m2": "10 890",
+        "link": "https://adresowo.pl/o/q3r7g8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Krowodrza",
+        "street": "al. Kijowska",
+        "pow": "35",
+        "room": "2",
+        "price": "795 000",
+        "price_m2": "22 845",
+        "link": "https://adresowo.pl/o/n8p3l5",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków",
+        "street": "ul. Kobierzyńska",
+        "pow": "45",
+        "room": "2",
+        "price": "754 947",
+        "price_m2": "16 695",
+        "link": "https://adresowo.pl/o/a1r5e5",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Prokocim",
+        "street": "ul. Snycerska",
+        "pow": "48",
+        "room": "2",
+        "price": "690 000",
+        "price_m2": "14 375",
+        "link": "https://adresowo.pl/o/m6s3k0",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Śródmieście",
+        "street": "ul. bp. Jana Prandoty",
+        "pow": "39",
+        "room": "2",
+        "price": "699 000",
+        "price_m2": "18 071",
+        "link": "https://adresowo.pl/o/s3i4m8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Zakrzówek",
+        "street": "ul. Sodowa",
+        "pow": "73",
+        "room": "3",
+        "price": "1 300 000",
+        "price_m2": "17 760",
+        "link": "https://adresowo.pl/o/o1b9l9",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Dębniki",
+        "street": "ul. Słomiana",
+        "pow": "50",
+        "room": "3",
+        "price": "899 000",
+        "price_m2": "17 980",
+        "link": "https://adresowo.pl/o/h1s7r4",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Prądnik Biały",
+        "street": "ul. Bałtycka",
+        "pow": "52",
+        "room": "3",
+        "price": "770 000",
+        "price_m2": "14 808",
+        "link": "https://adresowo.pl/o/p9j6k7",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Krowodrza",
+        "street": "",
+        "pow": "33",
+        "room": "2",
+        "price": "859 000",
+        "price_m2": "26 030",
+        "link": "https://adresowo.pl/o/m8t9o1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Kurdwanów",
+        "street": "ul. por. Halszki",
+        "pow": "53",
+        "room": "3",
+        "price": "799 000",
+        "price_m2": "15 075",
+        "link": "https://adresowo.pl/o/z7m7o1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Prądnik Biały",
+        "street": "ul. Stefana Banacha",
+        "pow": "49",
+        "room": "3",
+        "price": "699 000",
+        "price_m2": "14 187",
+        "link": "https://adresowo.pl/o/o5f2s4",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Mistrzejowice",
+        "street": "os. Piastów",
+        "pow": "46",
+        "room": "2",
+        "price": "835 000",
+        "price_m2": "18 105",
+        "link": "https://adresowo.pl/o/n6c1z1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Płaszów",
+        "street": "ul. Lasówka",
+        "pow": "36",
+        "room": "2",
+        "price": "535 000",
+        "price_m2": "15 028",
+        "link": "https://adresowo.pl/o/w3w9p8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków",
+        "street": "ul. Kobierzyńska",
+        "pow": "59",
+        "room": "3",
+        "price": "868 623",
+        "price_m2": "14 700",
+        "link": "https://adresowo.pl/o/w4e3o4",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Rakowice",
+        "street": "ul. Janusza Meissnera",
+        "pow": "48",
+        "room": "3",
+        "price": "849 000",
+        "price_m2": "17 855",
+        "link": "https://adresowo.pl/o/w3x9n2",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Śródmieście",
+        "street": "ul. Rakowicka",
+        "pow": "71",
+        "room": "3",
+        "price": "1 764 000",
+        "price_m2": "25 000",
+        "link": "https://adresowo.pl/o/x6u3h2",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Dębniki",
+        "street": "ul. Obozowa",
+        "pow": "28",
+        "room": "2",
+        "price": "580 000",
+        "price_m2": "20 714",
+        "link": "https://adresowo.pl/o/o5k1z8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Górka Narodowa",
+        "street": "ul. Belwederczyków",
+        "pow": "39",
+        "room": "2",
+        "price": "680 000",
+        "price_m2": "17 294",
+        "link": "https://adresowo.pl/o/i6z1w3",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Prądnik Biały",
+        "street": "ul. Adama Vetulaniego",
+        "pow": "40",
+        "room": "2",
+        "price": "700 000",
+        "price_m2": "17 722",
+        "link": "https://adresowo.pl/o/w4n4w7",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Kliny",
+        "street": "ul. Borkowska",
+        "pow": "38",
+        "room": "2",
+        "price": "620 000",
+        "price_m2": "16 133",
+        "link": "https://adresowo.pl/o/n3x7k1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Swoszowice",
+        "street": "ul. Borkowska",
+        "pow": "79",
+        "room": "3",
+        "price": "1 390 000",
+        "price_m2": "17 662",
+        "link": "https://adresowo.pl/o/k0v4i3",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Grzegórzki",
+        "street": "ul. płk. Francesco Nullo",
+        "pow": "37",
+        "room": "1",
+        "price": "599 000",
+        "price_m2": "16 189",
+        "link": "https://adresowo.pl/o/c3n2k1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Prądnik Biały",
+        "street": "ul. Nad Sudołem",
+        "pow": "48",
+        "room": "3",
+        "price": "785 000",
+        "price_m2": "16 354",
+        "link": "https://adresowo.pl/o/n6u7m0",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Grzegórzki",
+        "street": "ul. Kazimierza Wielkiego",
+        "pow": "64",
+        "room": "3",
+        "price": "1 300 000",
+        "price_m2": "20 313",
+        "link": "https://adresowo.pl/o/f0w1c6",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Ruczaj",
+        "street": "ul. dr. Jana Piltza",
+        "pow": "58",
+        "room": "3",
+        "price": "1 047 000",
+        "price_m2": "18 209",
+        "link": "https://adresowo.pl/o/u7j6y8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków",
+        "street": "ul. Jana Kurczaba",
+        "pow": "33",
+        "room": "1",
+        "price": "419 000",
+        "price_m2": "12 892",
+        "link": "https://adresowo.pl/o/h5t7u7",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Łagiewniki",
+        "street": "ul. Kobierzyńska",
+        "pow": "59",
+        "room": "3",
+        "price": "1 239 000",
+        "price_m2": "21 000",
+        "link": "https://adresowo.pl/o/y4a0z7",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Czyżyny",
+        "street": "ul. Galicyjska",
+        "pow": "53",
+        "room": "2",
+        "price": "949 000",
+        "price_m2": "18 008",
+        "link": "https://adresowo.pl/o/f7p8c4",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Nowa Huta",
+        "street": "ul. Fatimska",
+        "pow": "58",
+        "room": "3",
+        "price": "810 000",
+        "price_m2": "13 875",
+        "link": "https://adresowo.pl/o/m2v6z7",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Grzegórzki",
+        "street": "ul. Hugona Kołłątaja",
+        "pow": "61",
+        "room": "4",
+        "price": "1 349 780",
+        "price_m2": "22 285",
+        "link": "https://adresowo.pl/o/n6f1m8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Bronowice Wielkie",
+        "street": "ul. Stańczyka",
+        "pow": "48",
+        "room": "3",
+        "price": "1 100 000",
+        "price_m2": "22 917",
+        "link": "https://adresowo.pl/o/i9r6s7",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Azory",
+        "street": "ul. Stanisława Lentza",
+        "pow": "40",
+        "room": "2",
+        "price": "630 000",
+        "price_m2": "15 750",
+        "link": "https://adresowo.pl/o/g4q4g1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Nowa Huta",
+        "street": "",
+        "pow": "42",
+        "room": "2",
+        "price": "700 000",
+        "price_m2": "16 667",
+        "link": "https://adresowo.pl/o/v6f1k2",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Bieżanów",
+        "street": "ul. Podłęska",
+        "pow": "55",
+        "room": "2",
+        "price": "763 000",
+        "price_m2": "14 000",
+        "link": "https://adresowo.pl/o/u4i3h4",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Czyżyny",
+        "street": "ul. Bolesława Orlińskiego",
+        "pow": "62",
+        "room": "3",
+        "price": "980 000",
+        "price_m2": "15 746",
+        "link": "https://adresowo.pl/o/h4b1l3",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Dębniki",
+        "street": "ul. Lubostroń",
+        "pow": "68",
+        "room": "3",
+        "price": "1 200 000",
+        "price_m2": "17 647",
+        "link": "https://adresowo.pl/o/o1k1u6",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Dębniki",
+        "street": "ul. Powstańców",
+        "pow": "45",
+        "room": "3",
+        "price": "600 000",
+        "price_m2": "13 333",
+        "link": "https://adresowo.pl/o/i1i4e8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Grzegórzki",
+        "street": "ul. płk. pil. Stefana Łaszkiewicza",
+        "pow": "62",
+        "room": "3",
+        "price": "1 250 000",
+        "price_m2": "20 161",
+        "link": "https://adresowo.pl/o/h5x5n4",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Prądnik Biały",
+        "street": "ul. Marii Jaremy",
+        "pow": "51",
+        "room": "3",
+        "price": "595 000",
+        "price_m2": "11 667",
+        "link": "https://adresowo.pl/o/e3w7n2",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Nowa Huta",
+        "street": "os. Kazimierzowskie",
+        "pow": "37",
+        "room": "2",
+        "price": "499 000",
+        "price_m2": "13 486",
+        "link": "https://adresowo.pl/o/o2v7j1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Grzegórzki",
+        "street": "al. Ignacego Daszyńskiego",
+        "pow": "34",
+        "room": "1",
+        "price": "663 000",
+        "price_m2": "19 500",
+        "link": "https://adresowo.pl/o/b8z7l9",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Podgórze",
+        "street": "ul. Kalwaryjska",
+        "pow": "73",
+        "room": "3",
+        "price": "795 000",
+        "price_m2": "10 890",
+        "link": "https://adresowo.pl/o/q3r7g8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Krowodrza",
+        "street": "al. Kijowska",
+        "pow": "35",
+        "room": "2",
+        "price": "795 000",
+        "price_m2": "22 845",
+        "link": "https://adresowo.pl/o/n8p3l5",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków",
+        "street": "ul. Kobierzyńska",
+        "pow": "45",
+        "room": "2",
+        "price": "754 947",
+        "price_m2": "16 695",
+        "link": "https://adresowo.pl/o/a1r5e5",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Prokocim",
+        "street": "ul. Snycerska",
+        "pow": "48",
+        "room": "2",
+        "price": "690 000",
+        "price_m2": "14 375",
+        "link": "https://adresowo.pl/o/m6s3k0",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Śródmieście",
+        "street": "ul. bp. Jana Prandoty",
+        "pow": "39",
+        "room": "2",
+        "price": "699 000",
+        "price_m2": "18 071",
+        "link": "https://adresowo.pl/o/s3i4m8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Zakrzówek",
+        "street": "ul. Sodowa",
+        "pow": "73",
+        "room": "3",
+        "price": "1 300 000",
+        "price_m2": "17 760",
+        "link": "https://adresowo.pl/o/o1b9l9",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Dębniki",
+        "street": "ul. Słomiana",
+        "pow": "50",
+        "room": "3",
+        "price": "899 000",
+        "price_m2": "17 980",
+        "link": "https://adresowo.pl/o/h1s7r4",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Prądnik Biały",
+        "street": "ul. Bałtycka",
+        "pow": "52",
+        "room": "3",
+        "price": "770 000",
+        "price_m2": "14 808",
+        "link": "https://adresowo.pl/o/p9j6k7",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Krowodrza",
+        "street": "",
+        "pow": "33",
+        "room": "2",
+        "price": "859 000",
+        "price_m2": "26 030",
+        "link": "https://adresowo.pl/o/m8t9o1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Kurdwanów",
+        "street": "ul. por. Halszki",
+        "pow": "53",
+        "room": "3",
+        "price": "799 000",
+        "price_m2": "15 075",
+        "link": "https://adresowo.pl/o/z7m7o1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Prądnik Biały",
+        "street": "ul. Stefana Banacha",
+        "pow": "49",
+        "room": "3",
+        "price": "699 000",
+        "price_m2": "14 187",
+        "link": "https://adresowo.pl/o/o5f2s4",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Mistrzejowice",
+        "street": "os. Piastów",
+        "pow": "46",
+        "room": "2",
+        "price": "835 000",
+        "price_m2": "18 105",
+        "link": "https://adresowo.pl/o/n6c1z1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Płaszów",
+        "street": "ul. Lasówka",
+        "pow": "36",
+        "room": "2",
+        "price": "535 000",
+        "price_m2": "15 028",
+        "link": "https://adresowo.pl/o/w3w9p8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków",
+        "street": "ul. Kobierzyńska",
+        "pow": "59",
+        "room": "3",
+        "price": "868 623",
+        "price_m2": "14 700",
+        "link": "https://adresowo.pl/o/w4e3o4",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Rakowice",
+        "street": "ul. Janusza Meissnera",
+        "pow": "48",
+        "room": "3",
+        "price": "849 000",
+        "price_m2": "17 855",
+        "link": "https://adresowo.pl/o/w3x9n2",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Śródmieście",
+        "street": "ul. Rakowicka",
+        "pow": "71",
+        "room": "3",
+        "price": "1 764 000",
+        "price_m2": "25 000",
+        "link": "https://adresowo.pl/o/x6u3h2",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Dębniki",
+        "street": "ul. Obozowa",
+        "pow": "28",
+        "room": "2",
+        "price": "580 000",
+        "price_m2": "20 714",
+        "link": "https://adresowo.pl/o/o5k1z8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Górka Narodowa",
+        "street": "ul. Belwederczyków",
+        "pow": "39",
+        "room": "2",
+        "price": "680 000",
+        "price_m2": "17 294",
+        "link": "https://adresowo.pl/o/i6z1w3",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Prądnik Biały",
+        "street": "ul. Adama Vetulaniego",
+        "pow": "40",
+        "room": "2",
+        "price": "700 000",
+        "price_m2": "17 722",
+        "link": "https://adresowo.pl/o/w4n4w7",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Kliny",
+        "street": "ul. Borkowska",
+        "pow": "38",
+        "room": "2",
+        "price": "620 000",
+        "price_m2": "16 133",
+        "link": "https://adresowo.pl/o/n3x7k1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Swoszowice",
+        "street": "ul. Borkowska",
+        "pow": "79",
+        "room": "3",
+        "price": "1 390 000",
+        "price_m2": "17 662",
+        "link": "https://adresowo.pl/o/k0v4i3",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Grzegórzki",
+        "street": "ul. płk. Francesco Nullo",
+        "pow": "37",
+        "room": "1",
+        "price": "599 000",
+        "price_m2": "16 189",
+        "link": "https://adresowo.pl/o/c3n2k1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Prądnik Biały",
+        "street": "ul. Nad Sudołem",
+        "pow": "48",
+        "room": "3",
+        "price": "785 000",
+        "price_m2": "16 354",
+        "link": "https://adresowo.pl/o/n6u7m0",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Grzegórzki",
+        "street": "ul. Kazimierza Wielkiego",
+        "pow": "64",
+        "room": "3",
+        "price": "1 300 000",
+        "price_m2": "20 313",
+        "link": "https://adresowo.pl/o/f0w1c6",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Ruczaj",
+        "street": "ul. dr. Jana Piltza",
+        "pow": "58",
+        "room": "3",
+        "price": "1 047 000",
+        "price_m2": "18 209",
+        "link": "https://adresowo.pl/o/u7j6y8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków",
+        "street": "ul. Jana Kurczaba",
+        "pow": "33",
+        "room": "1",
+        "price": "419 000",
+        "price_m2": "12 892",
+        "link": "https://adresowo.pl/o/h5t7u7",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Łagiewniki",
+        "street": "ul. Kobierzyńska",
+        "pow": "59",
+        "room": "3",
+        "price": "1 239 000",
+        "price_m2": "21 000",
+        "link": "https://adresowo.pl/o/y4a0z7",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Czyżyny",
+        "street": "ul. Galicyjska",
+        "pow": "53",
+        "room": "2",
+        "price": "949 000",
+        "price_m2": "18 008",
+        "link": "https://adresowo.pl/o/f7p8c4",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Nowa Huta",
+        "street": "ul. Fatimska",
+        "pow": "58",
+        "room": "3",
+        "price": "810 000",
+        "price_m2": "13 875",
+        "link": "https://adresowo.pl/o/m2v6z7",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Grzegórzki",
+        "street": "ul. Hugona Kołłątaja",
+        "pow": "61",
+        "room": "4",
+        "price": "1 349 780",
+        "price_m2": "22 285",
+        "link": "https://adresowo.pl/o/n6f1m8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Bronowice Wielkie",
+        "street": "ul. Stańczyka",
+        "pow": "48",
+        "room": "3",
+        "price": "1 100 000",
+        "price_m2": "22 917",
+        "link": "https://adresowo.pl/o/i9r6s7",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Azory",
+        "street": "ul. Stanisława Lentza",
+        "pow": "40",
+        "room": "2",
+        "price": "630 000",
+        "price_m2": "15 750",
+        "link": "https://adresowo.pl/o/g4q4g1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Nowa Huta",
+        "street": "",
+        "pow": "42",
+        "room": "2",
+        "price": "700 000",
+        "price_m2": "16 667",
+        "link": "https://adresowo.pl/o/v6f1k2",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Bieżanów",
+        "street": "ul. Podłęska",
+        "pow": "55",
+        "room": "2",
+        "price": "763 000",
+        "price_m2": "14 000",
+        "link": "https://adresowo.pl/o/u4i3h4",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Podgórze Duchackie",
+        "street": "ul. Łużycka",
+        "pow": "68",
+        "room": "4",
+        "price": "827 000",
+        "price_m2": "12 252",
+        "link": "https://adresowo.pl/o/y3l0e6",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Dębniki",
+        "street": "ul. Lubostroń",
+        "pow": "68",
+        "room": "3",
+        "price": "1 200 000",
+        "price_m2": "17 647",
+        "link": "https://adresowo.pl/o/o1k1u6",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Dębniki",
+        "street": "ul. Powstańców",
+        "pow": "45",
+        "room": "3",
+        "price": "600 000",
+        "price_m2": "13 333",
+        "link": "https://adresowo.pl/o/i1i4e8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Grzegórzki",
+        "street": "ul. płk. pil. Stefana Łaszkiewicza",
+        "pow": "62",
+        "room": "3",
+        "price": "1 250 000",
+        "price_m2": "20 161",
+        "link": "https://adresowo.pl/o/h5x5n4",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Prądnik Biały",
+        "street": "ul. Marii Jaremy",
+        "pow": "51",
+        "room": "3",
+        "price": "595 000",
+        "price_m2": "11 667",
+        "link": "https://adresowo.pl/o/e3w7n2",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Nowa Huta",
+        "street": "os. Kazimierzowskie",
+        "pow": "37",
+        "room": "2",
+        "price": "499 000",
+        "price_m2": "13 486",
+        "link": "https://adresowo.pl/o/o2v7j1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Grzegórzki",
+        "street": "al. Ignacego Daszyńskiego",
+        "pow": "34",
+        "room": "1",
+        "price": "663 000",
+        "price_m2": "19 500",
+        "link": "https://adresowo.pl/o/b8z7l9",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Podgórze",
+        "street": "ul. Kalwaryjska",
+        "pow": "73",
+        "room": "3",
+        "price": "795 000",
+        "price_m2": "10 890",
+        "link": "https://adresowo.pl/o/q3r7g8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Krowodrza",
+        "street": "al. Kijowska",
+        "pow": "35",
+        "room": "2",
+        "price": "795 000",
+        "price_m2": "22 845",
+        "link": "https://adresowo.pl/o/n8p3l5",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków",
+        "street": "ul. Kobierzyńska",
+        "pow": "45",
+        "room": "2",
+        "price": "754 947",
+        "price_m2": "16 695",
+        "link": "https://adresowo.pl/o/a1r5e5",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Prokocim",
+        "street": "ul. Snycerska",
+        "pow": "48",
+        "room": "2",
+        "price": "690 000",
+        "price_m2": "14 375",
+        "link": "https://adresowo.pl/o/m6s3k0",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Śródmieście",
+        "street": "ul. bp. Jana Prandoty",
+        "pow": "39",
+        "room": "2",
+        "price": "699 000",
+        "price_m2": "18 071",
+        "link": "https://adresowo.pl/o/s3i4m8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Zakrzówek",
+        "street": "ul. Sodowa",
+        "pow": "73",
+        "room": "3",
+        "price": "1 300 000",
+        "price_m2": "17 760",
+        "link": "https://adresowo.pl/o/o1b9l9",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Dębniki",
+        "street": "ul. Słomiana",
+        "pow": "50",
+        "room": "3",
+        "price": "899 000",
+        "price_m2": "17 980",
+        "link": "https://adresowo.pl/o/h1s7r4",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Prądnik Biały",
+        "street": "ul. Bałtycka",
+        "pow": "52",
+        "room": "3",
+        "price": "770 000",
+        "price_m2": "14 808",
+        "link": "https://adresowo.pl/o/p9j6k7",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Krowodrza",
+        "street": "",
+        "pow": "33",
+        "room": "2",
+        "price": "859 000",
+        "price_m2": "26 030",
+        "link": "https://adresowo.pl/o/m8t9o1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Kurdwanów",
+        "street": "ul. por. Halszki",
+        "pow": "53",
+        "room": "3",
+        "price": "799 000",
+        "price_m2": "15 075",
+        "link": "https://adresowo.pl/o/z7m7o1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Prądnik Biały",
+        "street": "ul. Stefana Banacha",
+        "pow": "49",
+        "room": "3",
+        "price": "699 000",
+        "price_m2": "14 187",
+        "link": "https://adresowo.pl/o/o5f2s4",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Mistrzejowice",
+        "street": "os. Piastów",
+        "pow": "46",
+        "room": "2",
+        "price": "835 000",
+        "price_m2": "18 105",
+        "link": "https://adresowo.pl/o/n6c1z1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Płaszów",
+        "street": "ul. Lasówka",
+        "pow": "36",
+        "room": "2",
+        "price": "535 000",
+        "price_m2": "15 028",
+        "link": "https://adresowo.pl/o/w3w9p8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków",
+        "street": "ul. Kobierzyńska",
+        "pow": "59",
+        "room": "3",
+        "price": "868 623",
+        "price_m2": "14 700",
+        "link": "https://adresowo.pl/o/w4e3o4",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Rakowice",
+        "street": "ul. Janusza Meissnera",
+        "pow": "48",
+        "room": "3",
+        "price": "849 000",
+        "price_m2": "17 855",
+        "link": "https://adresowo.pl/o/w3x9n2",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Śródmieście",
+        "street": "ul. Rakowicka",
+        "pow": "71",
+        "room": "3",
+        "price": "1 764 000",
+        "price_m2": "25 000",
+        "link": "https://adresowo.pl/o/x6u3h2",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Dębniki",
+        "street": "ul. Obozowa",
+        "pow": "28",
+        "room": "2",
+        "price": "580 000",
+        "price_m2": "20 714",
+        "link": "https://adresowo.pl/o/o5k1z8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Górka Narodowa",
+        "street": "ul. Belwederczyków",
+        "pow": "39",
+        "room": "2",
+        "price": "680 000",
+        "price_m2": "17 294",
+        "link": "https://adresowo.pl/o/i6z1w3",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Prądnik Biały",
+        "street": "ul. Adama Vetulaniego",
+        "pow": "40",
+        "room": "2",
+        "price": "700 000",
+        "price_m2": "17 722",
+        "link": "https://adresowo.pl/o/w4n4w7",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Kliny",
+        "street": "ul. Borkowska",
+        "pow": "38",
+        "room": "2",
+        "price": "620 000",
+        "price_m2": "16 133",
+        "link": "https://adresowo.pl/o/n3x7k1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Swoszowice",
+        "street": "ul. Borkowska",
+        "pow": "79",
+        "room": "3",
+        "price": "1 390 000",
+        "price_m2": "17 662",
+        "link": "https://adresowo.pl/o/k0v4i3",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Grzegórzki",
+        "street": "ul. płk. Francesco Nullo",
+        "pow": "37",
+        "room": "1",
+        "price": "599 000",
+        "price_m2": "16 189",
+        "link": "https://adresowo.pl/o/c3n2k1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Prądnik Biały",
+        "street": "ul. Nad Sudołem",
+        "pow": "48",
+        "room": "3",
+        "price": "785 000",
+        "price_m2": "16 354",
+        "link": "https://adresowo.pl/o/n6u7m0",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Grzegórzki",
+        "street": "ul. Kazimierza Wielkiego",
+        "pow": "64",
+        "room": "3",
+        "price": "1 300 000",
+        "price_m2": "20 313",
+        "link": "https://adresowo.pl/o/f0w1c6",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Ruczaj",
+        "street": "ul. dr. Jana Piltza",
+        "pow": "58",
+        "room": "3",
+        "price": "1 047 000",
+        "price_m2": "18 209",
+        "link": "https://adresowo.pl/o/u7j6y8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków",
+        "street": "ul. Jana Kurczaba",
+        "pow": "33",
+        "room": "1",
+        "price": "419 000",
+        "price_m2": "12 892",
+        "link": "https://adresowo.pl/o/h5t7u7",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Łagiewniki",
+        "street": "ul. Kobierzyńska",
+        "pow": "59",
+        "room": "3",
+        "price": "1 239 000",
+        "price_m2": "21 000",
+        "link": "https://adresowo.pl/o/y4a0z7",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Czyżyny",
+        "street": "ul. Galicyjska",
+        "pow": "53",
+        "room": "2",
+        "price": "949 000",
+        "price_m2": "18 008",
+        "link": "https://adresowo.pl/o/f7p8c4",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Nowa Huta",
+        "street": "ul. Fatimska",
+        "pow": "58",
+        "room": "3",
+        "price": "810 000",
+        "price_m2": "13 875",
+        "link": "https://adresowo.pl/o/m2v6z7",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Grzegórzki",
+        "street": "ul. Hugona Kołłątaja",
+        "pow": "61",
+        "room": "4",
+        "price": "1 349 780",
+        "price_m2": "22 285",
+        "link": "https://adresowo.pl/o/n6f1m8",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Bronowice Wielkie",
+        "street": "ul. Stańczyka",
+        "pow": "48",
+        "room": "3",
+        "price": "1 100 000",
+        "price_m2": "22 917",
+        "link": "https://adresowo.pl/o/i9r6s7",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Azory",
+        "street": "ul. Stanisława Lentza",
+        "pow": "40",
+        "room": "2",
+        "price": "630 000",
+        "price_m2": "15 750",
+        "link": "https://adresowo.pl/o/g4q4g1",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Nowa Huta",
+        "street": "",
+        "pow": "42",
+        "room": "2",
+        "price": "700 000",
+        "price_m2": "16 667",
+        "link": "https://adresowo.pl/o/v6f1k2",
+        "source": "Adresowo"
+    },
+    {
+        "title": "Kraków Bieżanów",
+        "street": "ul. Podłęska",
+        "pow": "55",
+        "room": "2",
+        "price": "763 000",
+        "price_m2": "14 000",
+        "link": "https://adresowo.pl/o/u4i3h4",
+        "source": "Adresowo"
+    }
+]
